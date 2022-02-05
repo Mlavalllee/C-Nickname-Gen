@@ -1,0 +1,45 @@
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\Console app.exe
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\Console app.deps.json
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\Console app.runtimeconfig.json
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\Console app.dll
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\ref\Console app.dll
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\Console app.pdb
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.dll
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\ref\Console app.dll
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.pdb
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.genruntimeconfig.cache
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\Console app.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\Console app\Nickname Gen\bin\Debug\net6.0\Nickname Gen.exe
+C:\Users\nikit\source\repos\Console app\Nickname Gen\bin\Debug\net6.0\Nickname Gen.deps.json
+C:\Users\nikit\source\repos\Console app\Nickname Gen\bin\Debug\net6.0\Nickname Gen.runtimeconfig.json
+C:\Users\nikit\source\repos\Console app\Nickname Gen\bin\Debug\net6.0\Nickname Gen.dll
+C:\Users\nikit\source\repos\Console app\Nickname Gen\bin\Debug\net6.0\ref\Nickname Gen.dll
+C:\Users\nikit\source\repos\Console app\Nickname Gen\bin\Debug\net6.0\Nickname Gen.pdb
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.dll
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\ref\Nickname Gen.dll
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.pdb
+C:\Users\nikit\source\repos\Console app\Nickname Gen\obj\Debug\net6.0\Nickname Gen.genruntimeconfig.cache
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.AssemblyInfo.cs
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.dll
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\ref\Nickname Gen.dll
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.pdb
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickname Gen.exe
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickname Gen.deps.json
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickname Gen.runtimeconfig.json
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickname Gen.dll
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\ref\Nickname Gen.dll
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickname Gen.pdb
+C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.genruntimeconfig.cache
