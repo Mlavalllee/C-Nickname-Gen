@@ -1,0 +1,4 @@
+C:\Users\nikit\source\repos\Nickname Gen\Nickname Gen\obj\Debug\net6.0\Nickname Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\Nickname Gen\Nickname Gen\obj\Debug\net6.0\Nickname Gen.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Nickname Gen\Nickname Gen\obj\Debug\net6.0\Nickname Gen.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Nickname Gen\Nickname Gen\obj\Debug\net6.0\Nickname Gen.csproj.CoreCompileInputs.cache
