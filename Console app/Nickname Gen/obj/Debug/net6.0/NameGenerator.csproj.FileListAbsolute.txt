@@ -1,0 +1,14 @@
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\NameGenerator.exe
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\NameGenerator.deps.json
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\NameGenerator.runtimeconfig.json
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\NameGenerator.dll
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\ref\NameGenerator.dll
+C:\Users\nikit\source\repos\Console app\Console app\bin\Debug\net6.0\NameGenerator.pdb
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.dll
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\ref\NameGenerator.dll
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.pdb
+C:\Users\nikit\source\repos\Console app\Console app\obj\Debug\net6.0\NameGenerator.genruntimeconfig.cache
