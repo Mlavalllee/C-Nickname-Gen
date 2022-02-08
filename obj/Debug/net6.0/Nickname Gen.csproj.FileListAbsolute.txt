@@ -43,3 +43,18 @@ C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickn
 C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\ref\Nickname Gen.dll
 C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\bin\Debug\net6.0\Nickname Gen.pdb
 C:\Users\nikit\Desktop\C-Nickname-Gen-master\Nickname Gen\obj\Debug\net6.0\Nickname Gen.genruntimeconfig.cache
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\bin\Debug\net6.0\Nickname Gen.exe
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\bin\Debug\net6.0\Nickname Gen.deps.json
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\bin\Debug\net6.0\Nickname Gen.runtimeconfig.json
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\bin\Debug\net6.0\Nickname Gen.dll
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\bin\Debug\net6.0\ref\Nickname Gen.dll
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\bin\Debug\net6.0\Nickname Gen.pdb
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.AssemblyInfo.cs
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.dll
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\ref\Nickname Gen.dll
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.pdb
+C:\Users\m.lavallee3\Desktop\cs30\C-Nickname-Gen-master\obj\Debug\net6.0\Nickname Gen.genruntimeconfig.cache

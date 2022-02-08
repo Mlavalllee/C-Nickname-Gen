@@ -5,9 +5,10 @@ string NicknameOutput = null;
 
 //Nickname list
 var Nicknames = new List<string> {
-    "hacker", "the impeccable", "the strong", "pro", "sussy", "tryhard", "loveable", "the ninja", "coder", "master"
+    "hacker", "the impeccable", "the strong", "pro", "tryhard", "loveable", "the ninja", "coder", "master"
 };
 
+// return back to option
 var Again = "Menu";
 
 // start
@@ -17,12 +18,6 @@ void StartGen()
 {
     Console.WriteLine("Welcome to Nickname Generator");
     FName();
-}
-
-// clear Console
-void Clear()
-{
-    Console.Clear();
 }
 
 // Return to Menu Prompt
@@ -39,7 +34,7 @@ void ReturnPrompt()
     // check input
     if (Input == 1)
     {
-        Clear();
+        Console.Clear();
         switch (Again)
         {
             case "All":
@@ -60,20 +55,21 @@ void ReturnPrompt()
     switch (Input)
     {
         case 2:
-            Clear();
+            Console.Clear();
             Menu();
             break;
         case 3:
-            Clear();
+            Console.Clear();
             break;
         default:
-            Clear();
+            Console.Clear();
             Console.WriteLine("no options chosen, returning to menu");
             Menu();
             break;
     }
 }
 
+// NO nicknames
 void NoNicknames()
 {
     Console.WriteLine("No Nicknames detected, please add one");
@@ -84,15 +80,15 @@ void NoNicknames()
     switch (Input)
     {
         case 1:
-            Clear();
+            Console.Clear();
             AddNick();
             break;
         case 2:
-            Clear();
+            Console.Clear();
             Menu();
             break;
         default:
-            Clear();
+            Console.Clear();
             Console.WriteLine("No option selected, retuning to menu");
             Menu();
             break;
@@ -112,7 +108,7 @@ void FName()
     switch (Input.Length)
     {
         case 0:
-            Clear();
+            Console.Clear();
             Console.WriteLine("First name not inputed, please input name");
             Console.WriteLine();
             FName();
@@ -135,7 +131,7 @@ void LName()
     switch (Input.Length)
     {
         case 0:
-            Clear();
+            Console.Clear();
             Console.WriteLine("Last name not inputed, please input name");
             Console.WriteLine();
             LName();
@@ -157,6 +153,7 @@ void Menu()
     Console.WriteLine("3: Remove nickname");
     Console.WriteLine("4: Generate nickname");
     Console.WriteLine("5: change name");
+    Console.WriteLine("6: Quit");
     Console.WriteLine("Input:");
 
     // Input
@@ -166,27 +163,30 @@ void Menu()
     switch (Input)
     {
         case 1:
-            Clear();
+            Console.Clear();
             AllNicks();
             break;
         case 2:
-            Clear();
+            Console.Clear();
             AddNick();
             break;
         case 3:
-            Clear();
+            Console.Clear();
             RemoveNick();
             break;
         case 4:
-            Clear();
+            Console.Clear();
             GenerateNick();
             break;
         case 5:
-            Clear();
+            Console.Clear();
             FName();
             break;
+        case 6:
+            Console.Clear();
+            break;
         default:
-            Clear();
+            Console.Clear();
             Console.WriteLine("none of the avaliable options were selected.");
             Menu();
             break;
@@ -229,7 +229,7 @@ void AddNick()
         nickname.Trim().ToLower();
         if (Equals(duplicate, nickname))
         {
-            Clear();
+            Console.Clear();
             Console.WriteLine("Duplicate nickname, please add a differnt one");
             Console.WriteLine();
             AddNick();
@@ -239,13 +239,13 @@ void AddNick()
     {
         // check if nickname is empty
         case 0:
-            Clear();
+            Console.Clear();
             Console.WriteLine("Input blank, Please put in nickname");
             AddNick();
             break;
         default:
             // add Nickname to list
-            Clear();
+            Console.Clear();
             Nicknames.Add(Input);
             Console.WriteLine("Nickname added to list");
             Again = "Add";
@@ -277,7 +277,7 @@ void RemoveNick()
     }
     if (NickRemoved == false)
     {
-        Clear();
+        Console.Clear();
         Console.WriteLine("Nickname not found, Please try again");
         Console.WriteLine("1: Retry");
         Console.WriteLine("2: Return to menu");
@@ -286,15 +286,15 @@ void RemoveNick()
         switch (Input2)
         {
             case 1:
-                Clear();
+                Console.Clear();
                 RemoveNick();
                 break;
             case 2:
-                Clear();
+                Console.Clear();
                 Menu();
                 break;
             default:
-                Clear();
+                Console.Clear();
                 Console.WriteLine("no option chosen, Returning to menu");
                 Menu();
                 break;
@@ -302,7 +302,7 @@ void RemoveNick()
     }
     else
     {
-        Clear();
+        Console.Clear();
         Console.WriteLine("Nickname Removed");
         Again = "Remove";
         ReturnPrompt();
